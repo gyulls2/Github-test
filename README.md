@@ -11,4 +11,14 @@
 - [x] 테스트 저장소 생성
 
 ## git add
-- 사용법 : `git add <추가할경로>`
+- 사용법 : `git add <추가할파일>`
+
+## git commit -m 
+- 사용법 : `git commit -m "<메시지>"`
+- `""` 따옴표 생략 가능
+
+## git status
+- 내 git의 현재 상태를 본다.
+
+## git diff
+- 이전 기록(commit)을 기준으로 변경사항을 본다.
