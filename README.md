@@ -1,4 +1,4 @@
-# Github-test-with-nuri
+# Github-test
 멋사 FES7기 협업 실습용 레파지토리입니다.
 
 ## 목차
@@ -9,3 +9,6 @@
 
 ## 체크리스트
 - [x] 테스트 저장소 생성
+
+## git add
+- 사용법 : `git add <추가할경로>`
